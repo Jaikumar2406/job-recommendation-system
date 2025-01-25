@@ -22,5 +22,5 @@ This project is a **Resume-Based Job Recommendation System** where users can upl
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JaiKumar000/job-recommendation-system.git
+   git clone https://github.com/Jaikumar2406/job-recommendation-system.git
    cd job-recommendation-system
